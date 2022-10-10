@@ -1,6 +1,7 @@
 import './App.css';
 
 function App() {
+  console.log('secret', process.env.REACT_APP_SECRET);
   return (
     <div className="App">
       <h1>Pursuit App Template</h1>
