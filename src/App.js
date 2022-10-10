@@ -7,6 +7,7 @@ function App() {
       <h1>Pursuit App Template</h1>
       <h2>This is a test Netlify App</h2>
       <h3>Continuous deployment is automatic now</h3>
+      <h4>Adding a change from a branch</h4>
     </div>
   );
 }
